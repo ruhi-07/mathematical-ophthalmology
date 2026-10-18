@@ -24,3 +24,6 @@ The core equations are written in pure Python without external dependencies.
    ```bash
    python iol_calculator.py
    ```
+   ## 📊 Model Sensitivity Analysis
+![IOL Sensitivity Plot](iol_sensitivity_plot.png)
+
