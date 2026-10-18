@@ -1,3 +1,4 @@
+<img width="919" height="508" alt="Screenshot 2026-10-18 14 04 44" src="https://github.com/user-attachments/assets/3b731140-fc64-45e4-9dff-343e58d97497" />
 # Mathematical Ophthalmology: IOL Power Calculator
 
 A biomedical engineering portfolio project demonstrating the mathematical modeling of human ocular biometry. This repository contains a Python implementation of clinical formulas used to calculate the required power of an **Intraocular Lens (IOL)** during cataract surgery.
